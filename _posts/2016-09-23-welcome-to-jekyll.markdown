@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "A sample post"
+layout: default
+title:  "First post"
 date:   2016-09-23 00:27:02 +0200
 categories: jekyll update
 ---

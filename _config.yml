@@ -13,14 +13,47 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Miquel Martí
-email: miquelmr@kth.se
-description: Web development playground of Miquel Martí
-baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://miquelmarti.github.io" # the base hostname & protocol for your site
-twitter_username: mikii14
-github_username:  miquelmarti
+title: Miquel M.
+email: miquelmr - at - kth.se
+description: Welcome to my personal site where you can find information about me, stuff I am currently doing or I have done in the past and random thoughts that pop up in my head.
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Where things are
+source:      .
+destination: ./_site
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
+data_dir: ./_data
+collections: null
+include: []
+timezone: Asia/Tokyo
+
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      true
+unpublished: false
+
+# Plugins
+whitelist: []
+gems:      []
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+
+# Outputting
+permalink:     date
+paginate_path: /page:num
+timezone:      null
+
+quiet:    false
+defaults: []
