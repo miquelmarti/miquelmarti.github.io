@@ -1,6 +1,10 @@
 ---
 layout: splash
+title: About
 permalink: /about/
+header:
+  overlay_image: /assets/images/pano_leuven.png
+
 ---
 
 Working on setting up my site, blog included.
