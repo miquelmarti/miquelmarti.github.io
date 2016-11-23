@@ -79,7 +79,11 @@ analytics:
 author:
   name             : "Miquel Martí"
   avatar           : "/assets/images/miquel_square.jpg"
-  bio              : "Nothing worth having comes easy."
+  bio              : |
+                      From a small town close to Barcelona.
+                      Avid learner, technology enthusiast, engineer.
+                      I like getting lost to later find my way back.
+                      Fes-me cas.
   location         : "Tokyo, Japan"
   email            : "miquelmr@kth.se"
   uri              :
