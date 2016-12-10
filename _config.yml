@@ -80,10 +80,10 @@ author:
   name             : "Miquel Martí"
   avatar           : "/assets/images/miquel_square.jpg"
   bio              : |
-                      From a small town close to Barcelona.
-                      Avid learner, technology enthusiast, engineer.
-                      I like getting lost to later find my way back.
-                      Fes-me cas.
+                      Santaeulalienc.
+                      Avid learner, technology enthusiast, passionate engineer.
+                      I like espresso, landscapes and getting lost to later find my way back.
+                      I run for fun.
   location         : "Tokyo, Japan"
   email            : "miquelmr@kth.se"
   uri              :
@@ -91,7 +91,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "mmartira"
+  facebook         :
   foursquare       :
   github           : "miquelmarti"
   google_plus      :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "miquelmarti92"
   vine             :
   weibo            :
   xing             :
