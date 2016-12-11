@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "miquelmarti92"
 facebook:
-  username               : "mmartira"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Miquel Martí"
-  avatar           : "/assets/images/miquel_square.jpg"
+  avatar           : "/assets/images/miquel_icon.jpg"
   bio              : |
-                      Santaeulalienc.
+                      From a small town near Barcelona.
                       Avid learner, technology enthusiast, passionate engineer.
-                      I like espresso, landscapes and getting lost to later find my way back.
+                      I like espresso, landscapes and getting lost.
                       I run for fun.
   location         : "Tokyo, Japan"
   email            : "miquelmr@kth.se"

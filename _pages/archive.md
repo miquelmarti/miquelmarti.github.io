@@ -3,13 +3,9 @@ layout: archive
 title: Archive
 permalink: /archive/
 ---
-
 {% include base_path %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
   {% include archive-single.html %}
 {% endfor %}
-
-{% include paginator.html %}

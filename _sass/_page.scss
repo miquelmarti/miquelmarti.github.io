@@ -61,6 +61,7 @@
 
   /* paragraph indents */
   p {
+    text-align: $text-align;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
