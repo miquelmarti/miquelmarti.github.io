@@ -4,11 +4,9 @@ main:
   #   url: /about/
   - title: "CV"
     url: https://miquelmarti.github.io/assets/images/miquel_resume.pdf
-  # - title: "Blog" THINK HOW TO ADD LINK THAT MAPS TO LAST POST
-  #   url: /blog/
+  - title: "Blog"
+    url: /last-post/
   - title: "Archive"
     url: /archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
