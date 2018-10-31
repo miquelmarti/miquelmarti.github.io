@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Miquel M."
 title_separator          : "-"
 name                     : "Miquel Martí"
-description              : "miquelmarti.github.io"
+description              : "miquel.ml"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "miquelmarti/miquelmarti.github.io"
@@ -80,11 +80,11 @@ author:
   name             : "Miquel Martí"
   avatar           : "/assets/images/miquel_icon.jpg"
   bio              : |
-                      From a small town near Barcelona.
+                      From Santa Eulàlia de Ronçana, a small town near Barcelona.
                       Avid learner, technology enthusiast, passionate engineer.
-                      Looking for PhD opportunities in Deep Learning/Computer Vision.
+                      Nothing worth having comes easy!
 
-  location         : "Tokyo, Japan"
+  location         : "Stockholm, Sverige"
   email            : "miquelmr@kth.se"
   uri              :
   bitbucket        :
