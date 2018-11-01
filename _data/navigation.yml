@@ -3,7 +3,7 @@ main:
   # - title: "About"
   #   url: /about/
   - title: "CV"
-    url: https://miquelmarti.github.io/assets/images/miquel_resume.pdf
+    url: /assets/images/miquel_resume.pdf
   - title: "Blog"
     url: /last-post/
   - title: "Archive"
